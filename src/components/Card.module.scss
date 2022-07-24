@@ -1,0 +1,10 @@
+@import "../styles/globals.scss";
+
+.Card{
+    padding: 1.25rem 1.25rem;
+    border: 1px solid $base-stroke;
+    border-radius: 8px;
+    background-color: $base-grey2dp;
+    width: 340px;
+    height: 218px;
+}
